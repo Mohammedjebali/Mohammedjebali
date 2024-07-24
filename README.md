@@ -1,1 +1,1 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdueW8wZXZ6am50Znl3OTJ1cWRpbGhzNnE0aW5xampidXJmZnB0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" width="100%" height="450px" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzczeTlzNGc4MDk2c3ZweWhzdXluYjcwZzBocjdlenQ2NGVoNXJybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dw9QEW4midAXK/giphy-downsized-large.gif" width="100%" height="450px" />
