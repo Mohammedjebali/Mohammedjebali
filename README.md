@@ -1,1 +1,1 @@
-<iframe src="https://giphy.com/embed/L8K62iTDkzGX6" width="480" height="307" ></iframe>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFxMGM1cjE1NWN1MmU0d3FjZGI4dDk5ZXh1dmd0MG42NjJoODBidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100%" height="350px" />
