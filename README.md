@@ -1,1 +1,1 @@
-<img src="https://media.giphy.com/media/uaVon275MBpRe0D0m4/giphy.gif" width="100%" height="350px" />
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="377" src="https://giphy.com/embed/4zODXkoYNUG1QZdaoz/video" width="480"></iframe></div>
