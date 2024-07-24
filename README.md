@@ -1,1 +1,1 @@
-<img src="https://media.giphy.com/media/uaVon275MBpRe0D0m4/giphy.gif" width="100%" height="350px" />
+<iframe src="https://giphy.com/embed/l0MYIbippPxkHEDE4" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/motion-aftereffect-l0MYIbippPxkHEDE4">via GIPHY</a></p>
